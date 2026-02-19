@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nithin Medipelly 👋
 
-<!--
-**NithinMedipelly/NithinMedipelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student with a strong interest in **Data Science, Machine Learning, and NLP**  
+📊 Passionate about turning data into insights through clean analysis and predictive modeling  
+🛠️ Focused on building practical, real-world projects using Python
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** scikit-learn, XGBoost (basics)
+- **Natural Language Processing:** Text preprocessing, feature extraction
+- **APIs & Data Collection:** REST APIs, web scraping
+- **Tools:** Git, GitHub, Jupyter Notebook, Streamlit (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **NLP Text Analysis**  
+  Built NLP pipelines for text cleaning, analysis, and feature extraction using Python.
+
+- **Spotify Data Scraping**  
+  Collected and analyzed music data using the Spotify Web API to extract insights.
+
+- **Portfolio Website**  
+  Personal portfolio showcasing projects, skills, and academic work.
+
+## 📈 What I'm Working On
+- Improving machine learning model performance
+- Exploring real-world datasets and forecasting techniques
+- Strengthening end-to-end data science workflows
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/nithin-medipelli-a580b8326/
+- Email: nithinmedipelly2402@gmail.com
+
