@@ -22,6 +22,12 @@
 - **Portfolio Website**  
   Personal portfolio showcasing projects, skills, and academic work.
 
+  ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinMedipelly&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinMedipelly&layout=compact&hide_border=true)
+
+
 ## 📈 What I'm Working On
 - Improving machine learning model performance
 - Exploring real-world datasets and forecasting techniques
