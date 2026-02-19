@@ -1,10 +1,10 @@
-# Hi, I'm Nithin Medipelly 👋
+# Hi, I'm Nithin Medipelly
 
-🎓 Computer Science student with a strong interest in **Data Science, Machine Learning, and NLP**  
-📊 Passionate about turning data into insights through clean analysis and predictive modeling  
-🛠️ Focused on building practical, real-world projects using Python
+ Computer Science student with a strong interest in **Data Science, Machine Learning, and NLP**  
+ Passionate about turning data into insights through clean analysis and predictive modeling  
+ Focused on building practical, real-world projects using Python
 
-## 🔧 Technical Skills
+##  Technical Skills
 - **Programming:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** scikit-learn, XGBoost (basics)
@@ -12,7 +12,7 @@
 - **APIs & Data Collection:** REST APIs, web scraping
 - **Tools:** Git, GitHub, Jupyter Notebook, Streamlit (basic)
 
-## 📌 Featured Projects
+##  Featured Projects
 - **NLP Text Analysis**  
   Built NLP pipelines for text cleaning, analysis, and feature extraction using Python.
 
@@ -24,12 +24,12 @@
 
 
 
-## 📈 What I'm Working On
+##  What I'm Working On
 - Improving machine learning model performance
 - Exploring real-world datasets and forecasting techniques
 - Strengthening end-to-end data science workflows
 
-## 📫 Contact
+##  Contact
 - LinkedIn: https://www.linkedin.com/in/nithin-medipelli-a580b8326/
 - Email: nithinmedipelly2402@gmail.com
 
